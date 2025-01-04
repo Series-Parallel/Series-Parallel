@@ -2,8 +2,10 @@
 ![obiwan](https://github.com/user-attachments/assets/c1f96121-3700-4e0f-a9d6-4ce18a3827b3)
 
 just wanted to show you guys that, ik star wars!
-
 oh and I'm currently learning machine learning. On top of that, doing intern work as Software Engineer!
+
+![yoda,gif](https://github.com/user-attachments/assets/e6dce3fc-690b-4301-aea8-8210965cc306)
+
 <!--
 **Series-Parallel/Series-Parallel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

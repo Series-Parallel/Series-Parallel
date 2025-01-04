@@ -4,7 +4,10 @@
 just wanted to show you guys that, ik star wars!
 oh and I'm currently learning machine learning. On top of that, doing intern work as Software Engineer!
 
-![yoda,gif](https://github.com/user-attachments/assets/e6dce3fc-690b-4301-aea8-8210965cc306)
+gtg
+
+![flash](https://github.com/user-attachments/assets/a5029804-38e3-40cc-9950-0a66b05f8ef3)
+
 
 <!--
 **Series-Parallel/Series-Parallel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

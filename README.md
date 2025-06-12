@@ -1,8 +1,8 @@
 
 ![obiwan](https://github.com/user-attachments/assets/c1f96121-3700-4e0f-a9d6-4ce18a3827b3)
 
-just wanted to show you guys that, ik star wars!
-oh and I'm currently learning machine learning. Additionally, I have good experience of Software Engineering!
+
+ML and Maths? That’s my jam. Also been hands-on with some solid Software Engineering work.
 
 gtg
 
